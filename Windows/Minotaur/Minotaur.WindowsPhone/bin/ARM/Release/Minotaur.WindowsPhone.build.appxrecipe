@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>R2D2</Machine>
+    <WindowsUser>Artem</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>a2fd34ab-7043-4959-819e-de218f7a987e</PackageIdentityName>
+    <IntermediateOutputPath>D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\obj\ARM\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\bin\ARM\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\bin\ARM\Release\Minotaur.exe">
+      <PackagePath>Minotaur.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\Assembly-CSharp.dll">
+      <PackagePath>Assembly-CSharp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\Assembly-UnityScript.dll">
+      <PackagePath>Assembly-UnityScript.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\Boo.Lang.dll">
+      <PackagePath>Boo.Lang.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\UnityEngine.dll">
+      <PackagePath>UnityEngine.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\UnityEngine.Networking.dll">
+      <PackagePath>UnityEngine.Networking.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\UnityEngine.UI.dll">
+      <PackagePath>UnityEngine.UI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Players\WindowsPhone81\ARM\Release\UnityEngineProxy.dll">
+      <PackagePath>UnityEngineProxy.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\WinRTLegacy.dll">
+      <PackagePath>WinRTLegacy.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Players\WindowsPhone81\ARM\Release\BridgeInterface.dll">
+      <PackagePath>BridgeInterface.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Players\WindowsPhone81\ARM\Release\UnityEngineDelegates.dll">
+      <PackagePath>UnityEngineDelegates.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Players\WindowsPhone81\ARM\Release\UnityPlayer.dll">
+      <PackagePath>UnityPlayer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Players\WindowsPhone81\ARM\Release\BridgeInterface.winmd">
+      <PackagePath>BridgeInterface.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Players\WindowsPhone81\ARM\Release\UnityEngineDelegates.winmd">
+      <PackagePath>UnityEngineDelegates.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Players\WindowsPhone81\ARM\Release\UnityPlayer.winmd">
+      <PackagePath>UnityPlayer.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Players\WindowsPhone81\ARM\Release\WinRTBridge.winmd">
+      <PackagePath>WinRTBridge.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\Assets\AppIcon.scale-240.png">
+      <PackagePath>Assets\AppIcon.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\Assets\MediumTile.scale-140.png">
+      <PackagePath>Assets\MediumTile.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\Assets\SmallTile.scale-240.png">
+      <PackagePath>Assets\SmallTile.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\Data\managedAssemblies.txt">
+      <PackagePath>Data\managedAssemblies.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.Shared\Data\level0">
+      <PackagePath>Data\level0</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.Shared\Data\mainData">
+      <PackagePath>Data\mainData</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.Shared\Data\PlayerConnectionConfigFile">
+      <PackagePath>Data\PlayerConnectionConfigFile</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.Shared\Data\Resources\unity default resources">
+      <PackagePath>Data\Resources\unity default resources</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.Shared\Data\Resources\unity_builtin_extra">
+      <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.Shared\Data\sharedassets0.assets">
+      <PackagePath>Data\sharedassets0.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.Shared\Data\sharedassets1.assets">
+      <PackagePath>Data\sharedassets1.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.Shared\Data\sharedassets0.resource">
+      <PackagePath>Data\sharedassets0.resource</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\bin\ARM\Release\Minotaur.xr.xml">
+      <PackagePath>Minotaur.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\bin\ARM\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\bin\ARM\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\projects\Unity\Minotaur\Windows\Minotaur\Minotaur.WindowsPhone\bin\ARM\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,18 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\projects\unity\minotaur\windows\minotaur\minotaur.windowsphone\obj\arm\debug\intermediatexaml\minotaur.exe" HashGuid="6271bcf1-f52e-8c73-f476-05f2bcccc99c" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="d:\projects\unity\minotaur\windows\minotaur\minotaur.windowsphone\assembly-csharp.dll" HashGuid="3f9b1511-94b9-ac88-a7c5-41b5ce949931" />
+    <ReferenceAssembly PathName="d:\projects\unity\minotaur\windows\minotaur\minotaur.windowsphone\assembly-unityscript.dll" HashGuid="aa5c9329-16e5-0770-bf02-f049dcf2fa68" />
+    <ReferenceAssembly PathName="d:\projects\unity\minotaur\windows\minotaur\minotaur.windowsphone\boo.lang.dll" HashGuid="e3ce5c27-6fa1-13ab-eaf7-c1dfd121190d" />
+    <ReferenceAssembly PathName="d:\projects\unity\minotaur\windows\players\windowsphone81\arm\debug\bridgeinterface.winmd" HashGuid="92a06927-6c02-d20e-308e-03e8f5ff61a2" />
+    <ReferenceAssembly PathName="d:\projects\unity\minotaur\windows\minotaur\minotaur.windowsphone\unityengine.dll" HashGuid="9792979f-277f-da2a-ddea-f8aa1069b5fc" />
+    <ReferenceAssembly PathName="d:\projects\unity\minotaur\windows\minotaur\minotaur.windowsphone\unityengine.networking.dll" HashGuid="555634c3-ca1e-cedc-1ff8-7fb04e7d381b" />
+    <ReferenceAssembly PathName="d:\projects\unity\minotaur\windows\minotaur\minotaur.windowsphone\unityengine.ui.dll" HashGuid="19b00f9c-7a18-7895-e407-8eb7696bd8f2" />
+    <ReferenceAssembly PathName="d:\projects\unity\minotaur\windows\players\windowsphone81\arm\debug\unityenginedelegates.winmd" HashGuid="a758cda9-20bf-3e09-bb41-ffa443958e6c" />
+    <ReferenceAssembly PathName="d:\projects\unity\minotaur\windows\players\windowsphone81\arm\debug\unityengineproxy.dll" HashGuid="3f94a026-5564-58e0-16e0-d290b0d781c5" />
+    <ReferenceAssembly PathName="d:\projects\unity\minotaur\windows\players\windowsphone81\arm\debug\unityplayer.winmd" HashGuid="8a4a72aa-a311-42e5-bceb-c32a0d91898f" />
+    <ReferenceAssembly PathName="d:\projects\unity\minotaur\windows\players\windowsphone81\arm\debug\winrtbridge.winmd" HashGuid="a7c381a6-8f86-2bae-20c2-130d32941c5e" />
+    <ReferenceAssembly PathName="d:\projects\unity\minotaur\windows\minotaur\minotaur.windowsphone\winrtlegacy.dll" HashGuid="0ae18993-a4f6-cee8-8b9a-5f8aff472142" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

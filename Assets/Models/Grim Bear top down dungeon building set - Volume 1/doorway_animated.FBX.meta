@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: a27bec4c1ea4ebe4693d2ea30f032973
+timeCreated: 1426941503
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Grim_Bear_Arc_Doorframe
+    100004: Grim_Bear_Door_Animated
+    100006: Grim_Bear_Doorhandle1_Animated
+    100008: Grim_Bear_Doorhandle2_Animated
+    400000: //RootNode
+    400002: Grim_Bear_Arc_Doorframe
+    400004: Grim_Bear_Door_Animated
+    400006: Grim_Bear_Doorhandle1_Animated
+    400008: Grim_Bear_Doorhandle2_Animated
+    2300000: Grim_Bear_Arc_Doorframe
+    2300002: Grim_Bear_Door_Animated
+    2300004: Grim_Bear_Doorhandle1_Animated
+    2300006: Grim_Bear_Doorhandle2_Animated
+    3300000: Grim_Bear_Arc_Doorframe
+    3300002: Grim_Bear_Door_Animated
+    3300004: Grim_Bear_Doorhandle1_Animated
+    3300006: Grim_Bear_Doorhandle2_Animated
+    4300000: Grim_Bear_Door_Animated
+    4300002: Grim_Bear_Doorhandle1_Animated
+    4300004: Grim_Bear_Doorhandle2_Animated
+    4300006: Grim_Bear_Arc_Doorframe
+    7400000: open
+    7400002: Take 0010
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: open
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Grim_Bear_Arc_Doorframe
+        weight: 1
+      - path: Grim_Bear_Door_Animated
+        weight: 1
+      - path: Grim_Bear_Door_Animated/Grim_Bear_Doorhandle1_Animated
+        weight: 1
+      - path: Grim_Bear_Door_Animated/Grim_Bear_Doorhandle2_Animated
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
